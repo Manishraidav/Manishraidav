@@ -17,31 +17,31 @@ I enjoy discovering new ideas and learning new things. Maybe I don't have the an
 
 Here are some of the languages and tools I work with:
 
-Python
+ Python
 
-<img align ="right" src=![image](https://github.com/Manishraidav/Manishraidav/assets/110976523/f90f9e59-1375-41bf-b941-51d92cd38f12)  alt="github">
+<img align ="right" src="https://github.com/Manishraidav/Manishraidav/assets/110976523/f90f9e59-1375-41bf-b941-51d92cd38f12" alt="github">
 
-R
+ R
 
-MongoDB
+ MongoDB
 
-SQL
+ SQL
 
-HTML/CSS
+ HTML/CSS
 
-Numpy
+ Numpy
 
-Pandas
+ Pandas
 
-Matplotlib
+ Matplotlib
 
-TensorFlow
+ TensorFlow
 
-ggplot2
+ ggplot2
 
-Tableau
+ Tableau
 
-Stats
+ Stats
 
 # More About Me
 
