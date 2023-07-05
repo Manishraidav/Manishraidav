@@ -19,7 +19,7 @@ Here are some of the languages and tools I work with:
 
 Python
 
-<img align ="right" src=![image](https://github.com/Manishraidav/Manishraidav/assets/110976523/f90f9e59-1375-41bf-b941-51d92cd38f12) >
+<img align ="right" src=![image](https://github.com/Manishraidav/Manishraidav/assets/110976523/f90f9e59-1375-41bf-b941-51d92cd38f12)  alt="github">
 
 R
 
@@ -44,6 +44,9 @@ Tableau
 Stats
 
 # More About Me
+
 🔭 I’m currently working on awesome projects.
+
 🌱 I’m currently learning new technologies.
+
 💬 Ask me about anything related to programming. make this more good
